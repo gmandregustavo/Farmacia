@@ -32,7 +32,7 @@
                     @if(Context.Session.GetString("sacola") != null)
                     {
                         List<ItemPedido> itensSacola = JsonConvert.DeserializeObject<List<ItemPedido>>(Context.Session.GetString("sacola"));
-                        <a href="/Pedido/Sacola">@itensSacola.Count itens na sacola.</a>
+                        <a href="/Pedido/Sacola">Itens na Sacola: @itensSacola.Count</a>
                     }
                     else
                     {
