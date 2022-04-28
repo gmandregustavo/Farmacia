@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBJWplhS4owAoz/rRmNGgyLQSKEOB2TnbQ/+aboxkC1GGawLHW/082mMeVGEPHb9RkgyUT7TvIcKgHOQMRryAQ==",
+  "success": true,
+  "projectFilePath": "E:\\programações\\senac\\Farmacia\\Farmacia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SOS\\.nuget\\packages\\mysqlconnector\\2.1.8\\mysqlconnector.2.1.8.nupkg.sha512",
+    "C:\\Users\\SOS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\SOS\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
